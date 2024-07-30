@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1089263854694",
+    "project_id": "ff-chat-4c763",
+    "storage_bucket": "ff-chat-4c763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089263854694:android:2e43339b29156307c979a7",
+        "android_client_info": {
+          "package_name": "com.afex.ai.erkatoy_afex_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089263854694-jfdgfh0kne335rkv3ctq174ufqce1dnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaE7zOgVmIwWCpY572GzQaMrElD2Fny-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089263854694-jfdgfh0kne335rkv3ctq174ufqce1dnu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089263854694-evrdh76b0091mmkvpvj6odgjg87g6orm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afex.ai.erkatoyAfexAi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089263854694:android:6f48afe13792e8dfc979a7",
+        "android_client_info": {
+          "package_name": "com.jt17.ff_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089263854694-ktmof34spkmv8a020n3j64btch6o10sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jt17.ff_chat",
+            "certificate_hash": "9f47f91563e1de73276c5d9f9d4dcd02ca8ca433"
+          }
+        },
+        {
+          "client_id": "1089263854694-jfdgfh0kne335rkv3ctq174ufqce1dnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaE7zOgVmIwWCpY572GzQaMrElD2Fny-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089263854694-jfdgfh0kne335rkv3ctq174ufqce1dnu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089263854694-evrdh76b0091mmkvpvj6odgjg87g6orm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afex.ai.erkatoyAfexAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+DB_NAME=babysitter
+DB_USER=postgres
+DB_PASS=abdu3421
+DB_HOST=127.0.0.1
