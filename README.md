@@ -27,7 +27,7 @@ The BabyCare App is built as a comprehensive mobile solution with:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Abduaziz3455/babycare-app.git
+    git clone https://github.com/Abduaziz3455/erkatoy.git
     ```
 2. **Install Dependencies**:
     ```bash
